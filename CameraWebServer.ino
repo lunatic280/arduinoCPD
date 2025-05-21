@@ -11,8 +11,8 @@
 // ===========================
 // WiFi credentials
 // ===========================
-const char *ssid = "SK_7A74_2.4G";
-const char *password = "ACC32@9068";
+const char *ssid = "";
+const char *password = "";
 
 // FastAPI 서버 정보
 const char* serverUrl = "http://192.168.45.205:8000/detect/";
