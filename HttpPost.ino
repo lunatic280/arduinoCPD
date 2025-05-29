@@ -2,9 +2,9 @@
 #include <HTTPClient.h>
 #include <WiFiClientSecure.h>
 
-const char* ssid = "SK_7A74_2.4G";
-const char* password = "ACC32@9068";
-const char* serverUrl = "https://port-0-cpdserver-lzedf6rf40aa38e9.sel4.cloudtype.app/endpoint";
+const char* ssid = "와이파이 이름";
+const char* password = "와이파이비번";
+const char* serverUrl = "서버주소";
 
 void setup() {
   Serial.begin(115200);
